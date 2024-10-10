@@ -27,3 +27,6 @@
 <p>📕 And I'm getting to explore new languages:</p>
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer" style="padding: 5px; border: 1px solid #ccc; border-radius: 5px; background-color: #2c2c2c; display: inline-block;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 </p>
+
+<p>Currently, I am primarily working on a project designed to assist in preparing RPG sessions by providing a wide variety of NPCs to enhance gameplay:</p>
+https://github.com/szymer1414/RPGapp
