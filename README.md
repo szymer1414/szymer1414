@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm szymer</h1>
+<h1 align="center">Hello there</h1>
 <p align="left">I am an IT enthusiast with a strong focus on big data. I hold an engineering degree from the University of Technology in Lublin and am currently pursuing further studies in IT and big data at the University of Gdańsk. In addition to my academic work, I am involved in several IT projects aimed at streamlining everyday tasks and enhancing productivity, combining my passion for technology with practical, innovative solutions.</p>
 
 <ul>
